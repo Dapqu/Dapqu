@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dilimulati Diliyaer
 - 👀 I’m an Software Enginner interested in Game Development, Web Development, and Software Development!
-- 🌱 I Just Graduated @ University of Florida with Computer Science
-- 💞️ I’m looking to collaborate on any game development project using either Unity or Unreal Engine 4/5
+- 🌱 I Just Graduated from University of Florida with Computer Science degree.
+- 💞️ I’m looking to collaborate on any game development project using either Unity, Unreal Engine 5, or Godot.
 - 📫 Please reach me by email: dilyarswe@gmail.com
 
 <!---
