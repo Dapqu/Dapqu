@@ -5,7 +5,6 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilyarswe) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dapqu&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dapqu&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <picture>
